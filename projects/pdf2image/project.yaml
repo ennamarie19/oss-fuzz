@@ -1,0 +1,11 @@
+homepage: "https://pdf2image.readthedocs.io/en/latest/index.html"
+language: python
+primary_contact: "github@belval.org"
+auto_ccs: 
+  - "ennamarie19@gmail.com"
+fuzzing_engines: 
+  - libfuzzer
+sanitizers: 
+  - address
+  - undefined
+main_repo: "https://github.com/Belval/pdf2image.git"
