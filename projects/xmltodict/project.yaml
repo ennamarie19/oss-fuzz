@@ -1,11 +1,11 @@
-auto_ccs:
-- david@adalogics.com
-fuzzing_engines:
-- libfuzzer
-homepage: https://github.com/martinblech/xmltodict
+homepage: "https://pypi.org/project/xmltodict/"
 language: python
-main_repo: https://github.com/martinblech/xmltodict.git
-primary_contact: cneo@google.com
-sanitizers:
-- address
-- undefined
+primary_contact: "martinblech@gmail.com"
+auto_ccs: 
+  - "ennamarie19@gmail.com"
+fuzzing_engines: 
+  - libfuzzer
+sanitizers: 
+  - address
+  - undefined
+main_repo: "https://github.com/martinblech/xmltodict.git"
